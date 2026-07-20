@@ -1,2 +1,1 @@
 # revou-coding-camp
-README
